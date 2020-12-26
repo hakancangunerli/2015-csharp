@@ -1,0 +1,8 @@
+c:\users\hakancan\documents\visual studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+c:\users\hakancan\documents\visual studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe
+c:\users\hakancan\documents\visual studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.pdb
+c:\users\hakancan\documents\visual studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Form1.resources
+c:\users\hakancan\documents\visual studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Properties.Resources.resources
+c:\users\hakancan\documents\visual studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.GenerateResource.Cache
+c:\users\hakancan\documents\visual studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+c:\users\hakancan\documents\visual studio 2015\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb

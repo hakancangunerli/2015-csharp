@@ -1,0 +1,5 @@
+c:\users\hakancan\documents\visual studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe.config
+c:\users\hakancan\documents\visual studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csprojResolveAssemblyReference.cache
+c:\users\hakancan\documents\visual studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.Form1.resources
+c:\users\hakancan\documents\visual studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.Properties.Resources.resources
+c:\users\hakancan\documents\visual studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csproj.GenerateResource.Cache
